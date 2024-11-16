@@ -9,3 +9,4 @@ c = 'Misha'
 print(c)
 m = 'Maksim'
 print(m)
+print(c)
